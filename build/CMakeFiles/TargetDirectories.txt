@@ -1,0 +1,5 @@
+/root/temp_cmakelist/build/CMakeFiles/temp.dir
+/root/temp_cmakelist/build/CMakeFiles/package.dir
+/root/temp_cmakelist/build/CMakeFiles/package_source.dir
+/root/temp_cmakelist/build/CMakeFiles/edit_cache.dir
+/root/temp_cmakelist/build/CMakeFiles/rebuild_cache.dir

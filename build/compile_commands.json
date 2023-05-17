@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/root/temp_cmakelist/build",
+  "command": "/usr/bin/g++ -DBOOST_SYSTEM_DYN_LINK -DBOOST_SYSTEM_NO_LIB  -g -std=gnu++11 -o CMakeFiles/temp.dir/main.cpp.o -c /root/temp_cmakelist/main.cpp",
+  "file": "/root/temp_cmakelist/main.cpp",
+  "output": "CMakeFiles/temp.dir/main.cpp.o"
+}
+]
